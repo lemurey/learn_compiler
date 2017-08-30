@@ -1,0 +1,2 @@
+class Challenge(object):
+    pass
