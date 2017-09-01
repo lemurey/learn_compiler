@@ -1,0 +1,14 @@
+---
+type: multiple-choice
+id: 702eae38-fcfe-422e-a449-b755fd538fe5
+title: What is 4 + 3
+question: What is 4 + 3?
+options: |
+  * 5
+  * 43
+  * 7
+  * 12
+hint: addition exists
+hint2: testing multiple hints
+answer: 7
+explanation: if you have 4 things, and then get 3 more things, you have seven things
